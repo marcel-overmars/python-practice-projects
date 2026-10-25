@@ -1,12 +1,12 @@
-Python Practice Projects 🐍
+# Python Practice Projects 🐍
 
-Welkom!
+## Welkom!
 
-In deze repository staan mijn extra oefenprojecten die ik maak tijdens het leren programmeren met het boek Python Crash Course (3rd Edition) van Eric Matthes.
+In deze repository staan mijn extra oefenprojecten die ik maak tijdens het leren programmeren met het boek *Python Crash Course (3rd Edition)* van Eric Matthes.
 
-Deze repository is een aanvulling op mijn eerste repository, python-oefeningen.
+Deze repository is een aanvulling op mijn eerste repository, **python-oefeningen**.
 
-Doel
+## Doel
 
 Mijn doel is om stap voor stap een betere programmeur te worden en uiteindelijk professioneel als programmeur aan de slag te gaan.
 
@@ -14,32 +14,35 @@ Ik maak bij ieder nieuw leeronderdeel ongeveer 3 tot 4 kleinere oefenprojecten. 
 
 De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Python-technieken steeds zelfstandiger te combineren.
 
-Onderwerpen die ik oefen
+## Onderwerpen die ik oefen
 
-Variabelen
-Strings en f-strings
-String methods
-Lijsten en dictionaries
-for-loops en range()
-while-loops
-if, elif en else
-Nesting
-Functies met def
-Parameters en optionele argumenten
-return
-Dictionaries teruggeven vanuit functies
-En nog veel meer…
-Oefenprojecten
+- Variabelen
+- Strings en f-strings
+- String methods
+- Lijsten en dictionaries
+- `for`-loops en `range()`
+- `while`-loops
+- `if`, `elif` en `else`
+- Nesting
+- Functies met `def`
+- Parameters en optionele argumenten
+- `return`
+- Dictionaries teruggeven vanuit functies
+- En nog veel meer...
 
-Museumbeheer
-Autogarage
-(Wordt steeds verder uitgebreid)
+## Oefenprojecten
 
-Nieuwste projecten
+- Museumbeheer
+- Autogarage
 
-Autogarage
-Museumbeheer
-Mijn manier van oefenen
+*(Wordt steeds verder uitgebreid)*
+
+## Nieuwste projecten
+
+- Autogarage
+- Museumbeheer
+
+## Mijn manier van oefenen
 
 Ik probeer de projecten zoveel mogelijk zelfstandig te programmeren.
 
@@ -49,10 +52,10 @@ Ik oefen ook met de volgorde van mijn code, het herkennen van fouten en het zelf
 
 ChatGPT helpt bij het bedenken van opdrachten, het uitleggen van technieken en het beoordelen van mijn code.
 
-Waarom deze repository?
+## Waarom deze repository?
 
 Ik gebruik deze repository om mijn voortgang bij te houden en later terug te kunnen zien hoeveel ik heb geleerd.
 
 Daarnaast wil ik laten zien welke technieken ik zelfstandig kan toepassen en hoe ik steeds beter leer programmeren.
 
-Learning Python one project at a time. 🚀
+*Learning Python one project at a time. 🚀*
