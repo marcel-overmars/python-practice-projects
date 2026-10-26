@@ -34,6 +34,7 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 
 - Museumbeheer
 - Autogarage
+- Magische boekwinkel
 
 *(Wordt steeds verder uitgebreid)*
 
@@ -41,6 +42,7 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 
 - Autogarage
 - Museumbeheer
+- Magische boekwinkel
 
 ## Mijn manier van oefenen
 
