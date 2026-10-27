@@ -40,9 +40,9 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 
 ## Nieuwste projecten
 
-- Museumbeheer
 - Magische boekwinkel
 - Trainingscentrum
+- Middeleeuwse smederij
 
 ## Mijn manier van oefenen
 
