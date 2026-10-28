@@ -40,9 +40,9 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 
 ## Nieuwste projecten
 
-- Magische boekwinkel
 - Trainingscentrum
 - Middeleeuwse smederij
+- Ruimtestation Nova
 
 ## Mijn manier van oefenen
 
