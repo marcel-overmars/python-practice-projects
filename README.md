@@ -35,14 +35,15 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 - Museumbeheer
 - Autogarage
 - Magische boekwinkel
+- trainingscentrum
 
 *(Wordt steeds verder uitgebreid)*
 
 ## Nieuwste projecten
 
-- Trainingscentrum
 - Middeleeuwse smederij
 - Ruimtestation Nova
+- Ruimteacademie
 
 ## Mijn manier van oefenen
 
