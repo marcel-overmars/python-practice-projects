@@ -37,14 +37,15 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 - Magische boekwinkel
 - trainingscentrum
 - Middeleeuwse smederij
+- Ruimtestation Nova
 
 *(Wordt steeds verder uitgebreid)*
 
 ## Nieuwste projecten
 
-- Ruimtestation Nova
 - Ruimteacademie
 - Koninklijke bibliotheek
+- Drakenacademie
 
 ## Mijn manier van oefenen
 
