@@ -40,14 +40,15 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 - Ruimtestation Nova
 - Ruimteacademie
 - Koninklijke bibliotheek
+- Drakenacademie
 
 *(Wordt steeds verder uitgebreid)*
 
 ## Nieuwste projecten
 
-- Drakenacademie
 - Magische apothekerij
 - Piratenfort
+- Robotwerkplaats
 
 ## Mijn manier van oefenen
 
