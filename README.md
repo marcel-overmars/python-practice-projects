@@ -41,14 +41,15 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 - Ruimteacademie
 - Koninklijke bibliotheek
 - Drakenacademie
+- Magische apotheker
 
 *(Wordt steeds verder uitgebreid)*
 
 ## Nieuwste projecten
 
-- Magische apothekerij
 - Piratenfort
 - Robotwerkplaats
+- Ruimtehandelaar
 
 ## Mijn manier van oefenen
 
