@@ -42,14 +42,15 @@ De moeilijkheid wordt geleidelijk opgebouwd, zodat ik leer om verschillende Pyth
 - Koninklijke bibliotheek
 - Drakenacademie
 - Magische apotheker
+- Piratenfort
 
 *(Wordt steeds verder uitgebreid)*
 
 ## Nieuwste projecten
 
-- Piratenfort
 - Robotwerkplaats
 - Ruimtehandelaar
+- Koninklijke postkantoor
 
 ## Mijn manier van oefenen
 
